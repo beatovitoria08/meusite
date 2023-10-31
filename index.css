@@ -1,0 +1,21 @@
+body {
+    background-color: #000000; /* Substitua a cor pelo código da cor desejada */
+  }
+  body {
+    background-image: url('caminho-para-sua-imagem.jpg');
+    background-size: cover; /* Para redimensionar a imagem para cobrir toda a tela */
+  }
+  body {
+    background: linear-gradient(to bottom, #ff6600, #ffcc00); /* Gradiente de laranja para amarelo */
+  }
+  body {
+    background-image: url('caminho-para-sua-imagem.jpg');
+    background-repeat: repeat; /* A imagem será repetida vertical e horizontalmente */
+  }
+  body {
+    background-image: url('caminho-para-sua-imagem.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Mantém a imagem de fundo fixa enquanto você rola a página */
+  }
+      
