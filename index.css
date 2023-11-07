@@ -19,5 +19,7 @@ body {
     background-attachment: fixed; /* Mantém a imagem de fundo fixa enquanto você rola a página */
   }
       img{
-        
+        width:150px;
+        height:150px;
+        border-radius:50%;
       }
